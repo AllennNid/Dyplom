@@ -1,0 +1,57 @@
+.blackbox {
+  background: #333333;
+  position: absolute;
+  top: 830px;
+  left: 80px;
+  width: 960px;
+  height: 300px;
+}
+.whitetext {
+  position: absolute;
+  left: 60px;
+  width: 677px;
+  height: 150px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.01em;
+  color: #ffffff;
+}
+.span14 {
+  position: absolute;
+  top: 200px;
+  left: 60px;
+  width: 323px;
+  height: 28px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 156%;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+}
+.btn_login {
+  position: absolute;
+  width: 170px;
+  height: 45px;
+  top: 170px;
+  left: 700px;
+  background: #0099ff;
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px 3px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+}
+.btn_log {
+  text-decoration: none;
+  position: absolute;
+  top: 15px;
+  left: 40px;
+  color: #ffffff;
+}

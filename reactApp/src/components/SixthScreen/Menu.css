@@ -1,0 +1,56 @@
+.FMH6 {
+  position: absolute;
+  top: 30px;
+  left: 590px;
+  width: 72px;
+  height: 48px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 50px;
+  letter-spacing: 0.05em;
+  color: #000000;
+}
+.aAbout {
+  position: absolute;
+  top: 136px;
+  left: 590px;
+  width: 58px;
+  height: 27px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration: none;
+  letter-spacing: 0.05em;
+  color: #000000;
+}
+.aHome {
+  position: absolute;
+  top: 194px;
+  left: 590px;
+  width: 58px;
+  height: 27px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration: none;
+  letter-spacing: 0.05em;
+  color: #000000;
+}
+.aService {
+  position: absolute;
+  top: 250px;
+  left: 590px;
+  width: 58px;
+  height: 27px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration: none;
+  letter-spacing: 0.05em;
+  color: #000000;
+}

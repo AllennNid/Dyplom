@@ -1,0 +1,165 @@
+.imge1 {
+  position: absolute;
+  top: 300px;
+  left: 70px;
+  width: 220px;
+  border-radius: 4px;
+}
+.imge2 {
+  position: absolute;
+  top: 300px;
+  left: 320px;
+  width: 220px;
+  border-radius: 4px;
+}
+.imge3 {
+  position: absolute;
+  top: 300px;
+  left: 570px;
+  width: 220px;
+  border-radius: 4px;
+}
+.imge4 {
+  position: absolute;
+  top: 300px;
+  left: 820px;
+  width: 220px;
+  border-radius: 4px;
+}
+.whiteCard1 {
+  text-align: left;
+  padding: 8px 10px;
+  width: 180px;
+  height: 100px;
+  background: #fff;
+  position: absolute;
+  left: 80px;
+  top: 510px;
+  border-radius: 4px;
+}
+.cotial1 {
+  width: 97px;
+  display: flex;
+  justify-content: space-between;
+}
+.span2 {
+  font-family: "Poppins";
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  color: #333333;
+  font-size: 15px;
+}
+.span3 {
+  position: absolute;
+  font-family: "Poppins";
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  font-size: 13px;
+  top: 83px;
+  left: 12px;
+}
+.whiteCard2 {
+  width: 200px;
+  height: 116px;
+  background: #fff;
+  position: absolute;
+  left: 330px;
+  top: 510px;
+  border-radius: 4px;
+}
+.cotial2 {
+  margin-left: 11px;
+  padding-top: 8px;
+  width: 97px;
+  display: flex;
+  justify-content: space-between;
+}
+.span4 {
+  position: absolute;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  color: #333333;
+  padding: 0 10px;
+}
+.span5 {
+  position: absolute;
+  top: 78px;
+  left: 12px;
+  font-family: "Poppins";
+  letter-spacing: 0.04em;
+  color: #333333;
+  font-size: 14px;
+}
+.whiteCard3 {
+  width: 200px;
+  height: 116px;
+  background: #fff;
+  position: absolute;
+  left: 580px;
+  top: 510px;
+  border-radius: 4px;
+}
+.cotial3 {
+  margin-left: 11px;
+  padding-top: 8px;
+  width: 97px;
+  display: flex;
+  justify-content: space-between;
+}
+.span6 {
+  position: absolute;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  color: #333333;
+  padding: 0 10px;
+}
+.span7 {
+  position: absolute;
+  top: 78px;
+  left: 12px;
+  font-family: "Poppins";
+  letter-spacing: 0.04em;
+  color: #333333;
+  font-size: 14px;
+}
+.whiteCard4 {
+  width: 200px;
+  height: 116px;
+  background: #fff;
+  position: absolute;
+  left: 830px;
+  top: 510px;
+  border-radius: 4px;
+}
+.cotial4 {
+  margin-left: 11px;
+  padding-top: 8px;
+  width: 97px;
+  display: flex;
+  justify-content: space-between;
+}
+.span8 {
+  position: absolute;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  color: #333333;
+  padding: 0 10px;
+}
+.span9 {
+  position: absolute;
+  top: 78px;
+  left: 12px;
+  font-family: "Poppins";
+  letter-spacing: 0.04em;
+  color: #333333;
+  font-size: 14px;
+}
