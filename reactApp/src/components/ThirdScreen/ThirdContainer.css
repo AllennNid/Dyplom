@@ -1,0 +1,22 @@
+.aboutUs {
+  position: absolute;
+  width: 1100px;
+  height: 680px;
+}
+.fonBlue {
+  position: absolute;
+  top: 760px;
+  left: 60px;
+}
+.fonBlue img {
+  width: 480px;
+}
+.woman {
+  position: absolute;
+  top: 720px;
+}
+.woman img {
+  position: absolute;
+  width: 490px;
+  left: 50px;
+}

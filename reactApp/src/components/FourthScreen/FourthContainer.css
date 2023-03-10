@@ -1,0 +1,35 @@
+.OurDoctors {
+  position: absolute;
+  width: 1100px;
+  height: 680px;
+  top: 2000px;
+  background-color: rgba(215, 241, 246, 0.34);
+}
+.OurDoctors h6 {
+  position: absolute;
+  left: 500px;
+  width: 316px;
+  height: 50px;
+  top: 35px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.05em;
+  color: #333333;
+}
+.OurDoctors h3 {
+  position: absolute;
+  top: 110px;
+  left: 260px;
+  text-align: center;
+  width: 600px;
+  height: 100px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 50px;
+  color: #333333;
+  letter-spacing: 0.05em;
+}

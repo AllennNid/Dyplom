@@ -1,0 +1,50 @@
+.textright {
+  position: absolute;
+  top: 300px;
+  left: 80px;
+}
+.ellipse img {
+  width: 400px;
+}
+h1 {
+  font-family: "Poppins";
+  color: #333333;
+  font-style: normal;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  line-height: 40px;
+  margin-bottom: 20px;
+}
+.span1 {
+  font-family: "Poppins";
+  font-size: 20px;
+  letter-spacing: 0.05em;
+  color: #999999;
+  font-weight: 500;
+  font-size: 11px;
+}
+.photoRight {
+  position: absolute;
+  left: 520px;
+  top: 110px;
+}
+.photoRight img {
+  width: 530px;
+  height: 530px;
+}
+
+.checkNow {
+  position: absolute;
+  top: 190px;
+  left: 2px;
+  text-decoration: none;
+  font-family: "Poppins";
+  letter-spacing: 0.05em;
+  font-size: 13px;
+  line-height: 27px;
+  background: #0099ff;
+  border-radius: 5px;
+  padding: 5px 25px;
+  color: #fff;
+}
